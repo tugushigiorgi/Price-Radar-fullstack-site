@@ -1,5 +1,5 @@
 Hi there ! ; in this full stack application with awesome framework Laravel i made a website  where you can search  products in 4 different georgian electorinics ecommerce website (scrapped  Alta.ge , zoomer.ge, allmarket.ge,megatechnica.ge)  in the same time !   ,i made it possible with php web scrapping tool called Goutte ,
-getting data is not fast because its not a json data i can get LOL, but it gets a job Done ! , ALSO you can log in and save your favourite products , so you can see it with screenshots . i have used html ,css, ajax,  Goute (for scrapping data) and Laravel  
+getting data is not fast because its not a json data i can get LOL, but it gets a job Done ! , ALSO you can log in and save your favourite products , if you click product item you will be redirected to source of the product webiste. so you can see it with screenshots . i have used html ,css, ajax,  Goute (for scrapping data) and Laravel  
 owner giorgi.tugushi.1@btu.edu.ge
 
 ![main](https://user-images.githubusercontent.com/92800578/197048509-7d9338e4-2fa9-44d5-b448-750ae1d33b1b.png)
